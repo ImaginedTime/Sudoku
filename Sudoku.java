@@ -1,4 +1,4 @@
-class Sudoku
+class Sudoku //  Thanks to Parth for contributing
 {
 	public static int[] sudoku = new int[81];
 
